@@ -1,5 +1,5 @@
 # Astronomía Fundamental - Parcial 2
-En este respositorio se encuentra la solución al Parcial 2 de Astronomía Fundamental, semestre 2023-II. En este parcial se encuentran las coordenadas horizonatales de algunos cuerpos astronómicos
+En este respositorio se encuentra la solución al Parcial 2 de Astronomía Fundamental, semestre 2023-II. En este parcial se estudian las coordenadas horizonatales de algunos cuerpos astronómicos
 
 
 ## Integrantes:
